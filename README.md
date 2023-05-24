@@ -1,1 +1,1 @@
-![Hackathon overview](images/overview.png?raw=true "Hackathon overview")
+![Hackathon overview](overview.png?raw=true "Hackathon overview")

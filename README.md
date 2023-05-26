@@ -22,10 +22,10 @@ For any questions or more information please contact the event organizers via [e
 ## Important dates and times:
 
 * June 2 to 9: Registration ([form](https://forms.gle/cyCnZG2gThDpgDkW7))
-* June 17 (11am to 1pm EDT): Mixer and ideation event (Zoom, calendar file)
-* July 1 (11am to 1pm EDT): Team curation event (Zoom, calendar file)
-* July 21 to 23: Hackathon (schedule and links)
-* August 11 (11am to 1pm EDT): Hackathon demo session (Zoom, calendar file)
+* June 17 (11am to 1pm EDT): Mixer and ideation event
+* July 1 (11am to 1pm EDT): Team curation event
+* July 21 to 23: Hackathon
+* August 11 (11am to 1pm EDT): Hackathon demo session
 
 ## Hackathon schedule:
 * Friday July 21 (5pm EDT): Kickoff session
